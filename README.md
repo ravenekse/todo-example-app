@@ -26,7 +26,7 @@ npm run dev
 ### Available routes
 The following routes are available in the application:
 
-| Path       | Method | Form data                                                                                   | Description                 |
+| Route      | Method | Form data                                                                                   | Description                 |
 |------------|--------|---------------------------------------------------------------------------------------------|-----------------------------|
 | /tasks     | GET    | -                                                                                           | Returns all records         |
 | /tasks     | POST   | title: string (required)<br/>description: string (optional)                                 | Adds new record             |
